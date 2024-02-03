@@ -1,0 +1,51 @@
+#homeportfolio{
+    padding: 100px;
+    background: url(../../../../../public/homeportfolio.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.homeportfolio_wrapper{
+    width: 100%;
+    text-align: center;
+}
+.homeportfolio_wrapper_head_box{
+    text-align: center;
+    margin: 0 0 50px 0 ;
+}
+.homeportfolio_wrapper_head{
+    font-size: 42px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 150%;
+    text-transform: capitalize;
+}
+.homeportfolio_wrapper_image_box{
+    width: 100%;
+    height: 800px;
+    overflow: hidden;
+}
+.homeportfolio_wrapper_image_box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.homeportfolio_wrapper_btn_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0 0 0;
+}
+.homeportfolio_wrapper_btn{
+    padding: 18px 28px;
+    background: rgb(164, 192, 4);
+    border-radius: 15px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all linear 0.3s;
+}
+.homeportfolio_wrapper_btn:hover{
+    background:rgb(124, 106, 5) ;
+}
