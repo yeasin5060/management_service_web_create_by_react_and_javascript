@@ -1,6 +1,11 @@
 #navbar{
     padding: 32px;
     background: #8178788f;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 999;
 }
 .navabr_wrapper_link_box{
     display: flex;
