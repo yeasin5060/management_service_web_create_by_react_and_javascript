@@ -1,0 +1,93 @@
+#aboutconsultant{
+    padding: 50px 0;
+    background: #fff;
+}
+.aboutconsultant_wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    column-gap: 80px;
+}
+.aboutconsultant_image_contant_box{
+    text-align: left;
+    width: 350px;
+}
+.aboutconsultant_image_box{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+}
+.aboutconsultant_image_contant_box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.aboutconsultant_image_contant_wrapper{
+    width: 300px;
+    overflow: hidden;
+    padding: 20px;
+    margin-top: 40px;
+    background: aliceblue;
+}
+.aboutconsultant_image_contant_wrapper_pera{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    text-transform: capitalize;
+    line-height: 140%;
+}
+.aboutconsultant_image_contant_wrapper_name{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    text-transform: capitalize;
+    line-height: 140%;
+    margin-top: 40px;
+}
+.aboutconsultant_image_contant_wrapper_person{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+    text-transform: capitalize;
+    line-height: 140%;
+    margin-top: 10px;
+}
+.aboutconsultant_main_contant_box{
+    text-align: left;
+    width: 850px;
+}
+.aboutconsultant_main_contant_box_head{
+    font-size: 32px;
+    font-weight: 600;
+    color: #000;
+    text-transform: capitalize;
+    line-height: 140%;
+    margin-bottom: 40px;
+}
+.aboutconsultant_main_contant_box_pera{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    text-transform: capitalize;
+    line-height: 140%;
+}
+.aboutconsultant_main_contant_butto_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.aboutconsultant_main_contant_btn{
+    padding: 14px 28px;
+    background: rgb(133, 27, 27);
+    border-radius: 15px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 600;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all linear 0.3s;
+}
+.aboutconsultant_main_contant_btn:hover{
+    background:rgb(124, 5, 5) ;
+}
