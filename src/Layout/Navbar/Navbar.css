@@ -1,6 +1,6 @@
 #navbar{
     padding: 32px;
-    background: #8178788f;
+    background: #2e2b2bcc;
     position: absolute;
     width: 100%;
     left: 0;
@@ -42,7 +42,7 @@
     cursor: pointer;
 }
 .navabr_wrapper_link li a.active{
-    color: rgba(109, 42, 30, 0.726);
+    color: rgb(8, 141, 141);
 }
 .navabr_wrapper_button_box{
     display: flex;
