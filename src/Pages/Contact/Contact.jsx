@@ -1,8 +1,11 @@
 import React from 'react'
+import Contactbanar from './Contactsection/Contactbanar/Contactbanar'
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <>
+      <Contactbanar/>
+    </>
   )
 }
 

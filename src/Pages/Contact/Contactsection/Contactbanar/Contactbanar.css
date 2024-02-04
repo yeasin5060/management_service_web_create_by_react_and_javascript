@@ -1,0 +1,70 @@
+#contantbanar{
+    padding: 200px 0 100px 0;
+    background: #fff;
+}
+.contactbanar_wrapper{
+    margin: 10px auto;
+    width: 1000px;
+}
+.contactbanr_contant_box{
+    margin: 10px;
+}
+.contactbanr_contant_box_head{
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+    color: #000;
+    text-transform: uppercase;
+    line-height: 150%;
+    margin-bottom: 30px;
+}
+.contactbanr_contant_box_pera{
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+    text-transform:capitalize;
+    line-height: 150%;
+}
+.contactbanr_contant_box_pera_link{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(121, 8, 8);
+    text-transform:capitalize;
+    line-height: 150%;
+    cursor: pointer;
+}
+.contactbanar_wrapper_form{
+    margin: 20px 0;
+}
+.contactbanar_wrapper_form_box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 80px;
+}
+.contactbanar_wrapper_form_input_box{
+    width: 460px;
+}
+.contactbanar_wrapper_form_input{
+    width: 100%;
+    padding: 14px 30px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #00000075;
+    background: aliceblue;
+    outline: none;
+    border: 1px solid #6d616170;
+}
+.contactbanar_wrapper_form_textarea{
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #00000075;
+    background: aliceblue;
+    outline: none;
+    border: 1px solid #6d616170;
+    width: 100%;
+    height: 180px;
+    margin-top: 40px;
+}
