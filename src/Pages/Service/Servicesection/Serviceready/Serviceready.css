@@ -1,0 +1,33 @@
+#service_ready{
+    padding: 70px 0;
+    background: url(../../../../../public/homeportfolio.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.service_ready_wrapper{
+    text-align: center;
+}
+.service_ready_wrapper_head{
+    font-size: 32px;
+    font-weight: 600;
+    color: #fff;
+    text-transform:uppercase;
+    line-height: 140%;
+    margin-bottom: 10px;
+}
+.service_ready_wrapper_pera{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 150%;
+    width: 700px;
+    margin: 20px auto;
+
+}
+.service_ready_wrapper_nanohead{
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    text-transform:uppercase ;
+}
