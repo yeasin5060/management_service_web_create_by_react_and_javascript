@@ -1,0 +1,40 @@
+#faqqustion{
+    padding: 70px 0;
+    background: url(../../../../../public/homeportfolio.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.faqqustion_contant_wrapper{
+    text-align: center;
+    margin: 0 auto;
+}
+.faqqustion_wrapper_head{
+    font-size: 32px;
+    font-weight: 600;
+    color: #fff;
+    text-transform:uppercase;
+    line-height: 140%;
+    margin-bottom: 10px;
+}
+.faqqustion_wrapper_pera{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 150%;
+    width: 700px;
+    margin: 40px auto;
+}
+.faqqustion_contant_wrapper_link{
+    padding: 14px 28px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    border-radius: 10px;
+    background: rgb(219, 219, 11);
+    cursor: pointer;
+    transition: all linear 0.3s;
+}
+.faqqustion_contant_wrapper_link:hover{
+    background: yellow;
+}
