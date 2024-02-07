@@ -1,9 +1,9 @@
 import React from 'react'
 import './Homebanar.css'
 import { Link } from 'react-router-dom'
-import Subhead from '../../../../Utilities/Subhead/subhead'
 import Pera from '../../../../Utilities/Pera/Pera'
 import Nanohead from '../../../../Utilities/Nanohead/Nanohead'
+import Subhead from '../../../../Utilities/Subhead/Subhead'
 
 const Homebanar = () => {
   return (
