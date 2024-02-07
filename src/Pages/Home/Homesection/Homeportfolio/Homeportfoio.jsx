@@ -1,8 +1,8 @@
 import React from 'react'
 import './Homeportfolio.css'
-import Subhead from '../../../../Utilities/Subhead/subhead'
 import portfolioone from '../../../../images/portfolioone.jpg'
 import { Link } from 'react-router-dom'
+import Subhead from '../../../../Utilities/Subhead/Subhead'
 
 const Homeportfoio = () => {
   return (
